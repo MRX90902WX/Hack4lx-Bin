@@ -14,14 +14,14 @@ CLONAR REPOSITORIO
 - cd Hack4lx-Bin
 
 #PARA GENERAR BIN CON FECHA AUTOMATICO
-- python Hack4lx-Bin
+- python Hack4lx.py
 
 ==> Ingresa el bin :
 
 ==> La cantidad a generar :
 
 #PARA GENERAR BIN CON FECHA MANUAL
-- python Hack4lxMesA-Bin
+- python Hack4lxMesA.py
 
 ==> Ingresa el bin :
 
