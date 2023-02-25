@@ -16,12 +16,12 @@ CLONAR REPOSITORIO
 #PARA GENERAR BIN CON FECHA AUTOMATICO
 - python Hack4lx-Bin
 
-==> Ingresan el bin :
+==> Ingresa el bin :
 
 ==> La cantidad a generar :
 
 #PARA GENERAR BIN CON FECHA MANUAL
-- python Hack4lx-Bin
+- python Hack4lxMesA-Bin
 
 ==> Ingresa el bin :
 
