@@ -15,15 +15,15 @@ CLONAR REPOSITORIO
 
 - cd Hack4lx-Bin
 
-#PARA GENERAR BIN CON FECHA AUTOMATICO
-- python Hack4lx.py
+- bash iniciar.sh
+
+#OPCIÓN 1 GENERA BIN Rnd
 
 ==> Ingresa el bin :
 
 ==> La cantidad a generar :
 
-#PARA GENERAR BIN CON FECHA MANUAL
-- python Hack4lxMesA.py
+#OPCIÓN 2 GENERA BIN CON FECHA Rnd
 
 ==> Ingresa el bin :
 
