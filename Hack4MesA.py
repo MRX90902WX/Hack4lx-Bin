@@ -88,7 +88,7 @@ def ccv_gen():
 def main():
   for i in range(int(cantidad)):
     cc = generar_cc(bin_format)
-    print(f"[GENERADOS] - {cc} | {fecha} | {ccv_gen()}")
+    print(f"[Gnd] - {cc} | {fecha} | {ccv_gen()}")
 
 main()
 
