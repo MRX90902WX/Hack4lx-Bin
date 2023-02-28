@@ -97,7 +97,7 @@ def dategen():
 def main():
   for i in range(int(cantidad)):
     cc = generar_cc(bin_format)
-    print(f"[GENERADOS] - {cc} | {dategen()} | {ccv_gen()}")
+    print(f"[Gnd] - {cc} | {dategen()} | {ccv_gen()}")
 
 main()
 
