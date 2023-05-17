@@ -1,7 +1,7 @@
 # Hack4lx-Bin
-Repositorio para generar bins de cuentas streaming, funciona bien en YouTube Premiun calar en diferentes plataformas ➡  version 1.9 &amp; subire actualizaciones muy pronto . 
+Repositorio para generar bins de cuentas streaming, funciona bien en YouTube Premiun calar en diferentes plataformas ➡  version 2.1 &amp; actualizado. 
 
-NOTA: USAR NAVEGADOR DUCKDUCK-GO PARA MAYOR EFECTIVIDAD CALAR EN AMAZON, PARAMOUNT, SPOTIFY, DISNEY.
+NOTA: USAR NAVEGADOR DUCKDUCK-GO, KIWI, VÍA, PARA MAYOR EFECTIVIDAD CALAR EN AMAZON, PARAMOUNT, SPOTIFY, DISNEY, ETC.
 
 #REQUISITOS 
 
@@ -36,3 +36,4 @@ CLONAR REPOSITORIO
 CREDITOS:
 
 - Demo-Hacks
+- Telegram: @Demo593
