@@ -32,8 +32,9 @@ CLONAR REPOSITORIO
 ==> La cantidad a generar :
 
 *****
-
-CREDITOS:
+OJO: SOLO GENERA VISA Y MASTERCARD 💳 
+*****
+CRÉDITOS:
 
 - Demo-Hacks
 - Telegram: @Demo593
