@@ -37,4 +37,4 @@ OJO: SOLO GENERA VISA Y MASTERCARD 💳
 CRÉDITOS:
 
 - Demo-Hacks
-- Telegram: @Demo593
+- Telegram: @DemoEC
